@@ -1,3 +1,7 @@
+N.Sugandan 
+212222060260
+
+
 # Automatic Light Controller using LDR and Arduino UNO controller.
 
 ##  AIM:
